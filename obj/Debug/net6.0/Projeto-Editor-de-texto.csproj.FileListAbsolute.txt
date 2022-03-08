@@ -1,0 +1,15 @@
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\bin\Debug\net6.0\Projeto-Editor-de-texto.exe
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\bin\Debug\net6.0\Projeto-Editor-de-texto.deps.json
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\bin\Debug\net6.0\Projeto-Editor-de-texto.runtimeconfig.json
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\bin\Debug\net6.0\Projeto-Editor-de-texto.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\bin\Debug\net6.0\ref\Projeto-Editor-de-texto.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\bin\Debug\net6.0\Projeto-Editor-de-texto.pdb
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.csproj.AssemblyReference.cache
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.GeneratedMSBuildEditorConfig.editorconfig
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.AssemblyInfoInputs.cache
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.AssemblyInfo.cs
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.csproj.CoreCompileInputs.cache
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\ref\Projeto-Editor-de-texto.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.pdb
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-de-texto\obj\Debug\net6.0\Projeto-Editor-de-texto.genruntimeconfig.cache
